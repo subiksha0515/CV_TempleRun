@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Project maintained by [yourusername](https://github.com/yourusername)**  
+**Project maintained by [subiksha0515](https://github.com/subiksha0515)**  
 Feel free to reach out with feedback or suggestions.
 
 ## License
